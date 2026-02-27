@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Languages
+- Python
+- C++
 <!--
 **SilvestreBartolomeu/SilvestreBartolomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
